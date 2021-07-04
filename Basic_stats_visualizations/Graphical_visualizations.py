@@ -1,5 +1,5 @@
 #---------------------------------------------------------------------
-# File Name   : Association_apriori.py
+# File Name   : Graphical_visualizations.py
 # Author      : Kunal K.
 # Description : Implementing graphical visualization (basics)
 # Date:       : 5 Nov. 2020
