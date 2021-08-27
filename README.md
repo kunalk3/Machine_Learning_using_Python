@@ -4,7 +4,7 @@ Refer, below table for code and data..
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
-## R Gallery 
+## Python ML Gallery 
 Sr. No. | Title | Source Code | Data
 -- | -------- | --- | ---
 1 | Association Rule (Apriori) | [Python code](https://github.com/kunalk3/Machine_Learning_using_Python/blob/main/Association%20Rule/Association_apriori.py) | [Data](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/Association%20Rule/data)
