@@ -17,3 +17,4 @@ Sr. No. | Title | Source Code | Data
 8 | Logistic Regression | [Python Code](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/Logistic_regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/Logistic_regression/data)
 9 | MultiLinear Regression | [Python Code](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/MultiLinear_regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/MultiLinear_regression/data)
 10 | - | - | -
+ 
