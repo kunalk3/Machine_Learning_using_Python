@@ -15,6 +15,6 @@ Sr. No. | Title | Source Code | Data
 6 | KNN algorithms | [Python Code](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/KNN_algorithm) | [Data](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/KNN_algorithm/data)
 7 | Linear Regression | [Python Code](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/Linear_regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/Linear_regression/data)
 8 | Logistic Regression | [Python Code](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/Logistic_regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/Logistic_regression/data)
-9 | MultiLinear Regression | [Python Code](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/MultiLinear_regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/MultiLinear_regression/data)
+9 | MultiLinear Regression | [Python Code](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/MultiLinear_regression) | [Data](https://github.com/kunalk3/Machine_Learning_using_Python/tree/main/MultiLinear_regression/data) 
 10 | - | - | -
  
